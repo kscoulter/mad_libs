@@ -14,5 +14,5 @@
 - there are LOTS of ways to execute this code
 
 ## Bonus
-Use only one input tag.
-Create other madlib templates.
+- Use only one input tag.
+- Create other madlib templates.
