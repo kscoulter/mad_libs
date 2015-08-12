@@ -16,3 +16,11 @@
 ## Bonus
 - Use only one input tag.
 - Create other madlib templates.
+
+## Double bonus
+- When the user moves focus to another input, replace the input with text between the span.
+- When the user clicks on that span, add a text input in-place.
+
+## Triple Bonus
+
+- Save your mad-libs with localStorage!
